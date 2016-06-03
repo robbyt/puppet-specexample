@@ -1,6 +1,8 @@
 # What is this?
 
-This is a simple example module that shows how you can write spec tests.
+This is an example Puppet module that shows how you can write spec tests to validate your Puppet
+code. Using this module you can iterate faster, and test your code without deploying to real
+Puppet servers.
 
 # How do I use this?
 
